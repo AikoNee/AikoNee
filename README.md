@@ -6,3 +6,6 @@
 > **I usually hangout on new servers I join but you can contact me always here**
 
 [![DiscordBanner](https://invidget.switchblade.xyz/uEs2xYhY5c)](https://discord.gg/uEs2xYhY5c)
+ **Other Useful Links:**
+
+ [Website](https://yueaiko.ml) **|** [Twitter](https://twitter.com/NeeAiko) **|** [Facebook](https://fb.me/AikoNeeSama)
