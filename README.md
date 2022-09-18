@@ -2,3 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/952158783285628968/965261264148373576/Aiko.gif">
   [![Discord Presence](https://lanyard.cnrad.dev/api/517142172844425221)](https://discord.com/users/517142172844425221)
+
+> **I usually hangout on new servers I join but you can contact me always here**
+
+[![DiscordBanner](https://invidget.switchblade.xyz/uEs2xYhY5c)](https://discord.gg/uEs2xYhY5c)
