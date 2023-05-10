@@ -4,6 +4,8 @@
 
 > **I usually hangout on new servers I join but you can contact me always here**
 
+  [![Discord Presence](https://api.lanyard.rest/v1/users/517142172844425221)](https://discord.com/users/517142172844425221)
+  
 [![DiscordBanner](https://invidget.switchblade.xyz/uEs2xYhY5c)](https://discord.gg/uEs2xYhY5c)
 
  **Other Useful Links:**
