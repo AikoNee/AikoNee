@@ -11,4 +11,4 @@
 
  **Other Useful Links:**
 
- [Website](https://yueaiko.ml) **|** [Twitter](https://twitter.com/NeeAiko) **|** [Facebook](https://fb.me/AikoNeeSama)
+ [Website](https://aikomechawaii.eu.org) **|**  [Facebook](https://fb.me/AikoNeeSama)
